@@ -26,7 +26,7 @@ const OrderReview = () => {
            </div>
            <div className="cart-container">
                <Cart cart={cart}>
-                   <p>Hello world</p>
+                   <button className="btn-regular">Place Order</button>
                </Cart>
            </div>
         </div>
